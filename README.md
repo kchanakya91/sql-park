@@ -29,7 +29,7 @@ close_time: closing time.
 Ride table: 
 Columns:
 rid: ride ID 
-rname: ride name 
+rname: ride name.
 pid: park ID 
 min_height: minimal height in inches 
 capacity: number of people can be on the ride at the same time 
