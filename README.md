@@ -11,7 +11,7 @@ Assumptions: You will create a set of tables for managing amusement parks
 
 Once the customer used a reservation, the customer can make another reservation as long as the customer has no more than three (including the new one) unused reservations on that ticket. 
    
-The list of tables is:
+The list of tables is: 
 
 Park table:
 Columns:
